@@ -67,6 +67,25 @@
     .love-describe{
         padding: 0px 15px;
     }
+    /* fact section responsive */
+    .fact-container{
+    margin-bottom: 90px;
+    margin-top: 70px;
+    }
+    .fact-card-container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    gap: 15px;
+    width: 100%;
+    }
+    .fact-title{
+        text-align: center;
+    }
+    .fact-describe{
+       
+        text-align: justify;
+    }
 }
 
 
@@ -126,4 +145,26 @@
         margin-bottom: 13px;
         
     }
+     /* fact section responsive */
+    .fact-container{
+    margin-bottom: 120px;
+    margin-top: 90px;
+    }
+    .fact-card-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    gap: 10px;
+    width: 100%;
+    }
+    .fact-title{
+        text-align: center;
+    }
+    .fact-describe{
+       
+        text-align: center;
+    }
+
+
+
 }
