@@ -56,3 +56,74 @@ body > main {
     color: #727272;
     margin-bottom: 32px;
 }
+
+/* love section style */
+.love-container{
+    display: flex;
+    gap: 146px;
+    
+}
+
+.border-container{
+    display: flex;
+    gap: 19px;
+}
+.border{
+    background-color: #FF900E;
+    width: 5px;
+    height: 106px;
+}
+.love-title{
+    font-family: bold;
+    font-size: 2.8rem;
+    color: #131313;
+    margin-bottom: 24px;
+}
+.love-describe{
+    font-family: normal;
+    font-size: 1rem;
+    color: #727272;
+    margin-bottom: 30px;
+    
+}
+.card{
+    width: 586px;
+    
+    background-color: #FFFFFF;
+    border-radius: 9px;
+    box-shadow: 0 4px 30px 0 #00000018;
+    padding: 30px 30px;
+    margin-bottom: 19px;
+}
+.card-title{
+    font-family: 700;
+    font-size: 1.25rem;
+    color: #131313;
+    margin-bottom: 11px;
+}
+.card-describe{
+    font-family: normal;
+    font-size: 1rem;
+    color: #727272;
+}
+.image-custom img{
+    width: 709px;
+    height: 982px;
+}
+.btn-position{
+    margin-left: -93px;
+    margin-top: -149px;
+}
+.secondary-btn{
+    color: #FFFFFF;
+    background-color: #FF900E;
+    border: none;
+    border-radius: 9px ;
+    font-size: 4rem;
+    font-weight: bold;
+    padding: 46px 42px;
+}
+#customize{
+    font-size: 1.56rem;
+    font-weight: 500;
+}
