@@ -97,6 +97,14 @@
     .sponsor-image img{
     width: 165px;
     }
+    /* footer responsive */
+    .footer-title{
+        text-align: center;
+    }
+    body > footer {
+    max-width: 100%;
+    
+    }
 }
 
 
@@ -186,7 +194,14 @@
     .sponsor-image img{
     width: 165px;
     }
-
+    /* footer responsive */
+    .footer-title{
+        text-align: center;
+    }
+    body > footer {
+    max-width: 100%;
+    
+    }
 
 
 }

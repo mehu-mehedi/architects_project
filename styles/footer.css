@@ -6,3 +6,20 @@
     margin: 0px;
     padding: 0px;
 }
+body > footer {
+    max-width: 1440px;
+    margin: 0px auto;
+}
+.footer-container{
+    background-color: #FFF4E7;
+    padding: 39px 0px;
+    border-radius: 9px;
+    margin-bottom: 216px;
+
+}
+.footer-title{
+    color: #424242;
+    font-size: 1.25rem;
+    font-weight: normal;
+    text-align: center;
+}
